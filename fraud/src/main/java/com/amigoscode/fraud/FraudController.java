@@ -1,5 +1,6 @@
 package com.amigoscode.fraud;
 
+import com.amigoscode.clients.fraud.FraudCheckResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
